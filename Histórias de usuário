@@ -1,0 +1,10 @@
+Histórias de usuário
+
+| História                                | Usuário     | Objetivo                                     |
+| Consultar horários                      | Aluno       | Encontrar atendimento na disciplina desejada |
+| Reservar atendimento                    | Aluno       | Garantir uma vaga na monitoria               |
+| Informar disponibilidade                | Monitor     | Disponibilizar horários para atendimento     |
+| Cancelar atendimento e avisar os alunos | Monitor     | Evitar deslocamentos desnecessários          |
+| Consultar relatório mensal de horas     | Coordenação | Conferir as horas para pagamento da bolsa    |
+
+A história escolhida para implementação é reservar atendimento.
